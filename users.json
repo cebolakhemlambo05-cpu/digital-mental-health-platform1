@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "username": "calm_healer",
+    "email": "calm.healer@example.com",
+    "password": "UserPass!1",
+    "joinDate": "2026-04-01",
+    "moodEntries": [
+      {
+        "mood": "Good",
+        "notes": "Felt better after a morning walk.",
+        "timestamp": "2026-04-18T10:15:00"
+      },
+      {
+        "mood": "Neutral",
+        "notes": "A steady day with manageable stress.",
+        "timestamp": "2026-04-17T19:20:00"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "username": "mindful_user",
+    "email": "mindful.user@example.com",
+    "password": "UserPass!2",
+    "joinDate": "2026-03-22",
+    "moodEntries": [
+      {
+        "mood": "Very Low",
+        "notes": "Struggled with anxiety this morning.",
+        "timestamp": "2026-04-18T08:35:00"
+      },
+      {
+        "mood": "Low",
+        "notes": "Late work hours made me restless.",
+        "timestamp": "2026-04-16T21:00:00"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "username": "bright_horizons",
+    "email": "bright.horizons@example.com",
+    "password": "UserPass!3",
+    "joinDate": "2026-04-10",
+    "moodEntries": [
+      {
+        "mood": "Great",
+        "notes": "Meditation helped reset my mood.",
+        "timestamp": "2026-04-17T07:30:00"
+      },
+      {
+        "mood": "Good",
+        "notes": "Felt productive and optimistic.",
+        "timestamp": "2026-04-15T15:45:00"
+      }
+    ]
+  }
+]

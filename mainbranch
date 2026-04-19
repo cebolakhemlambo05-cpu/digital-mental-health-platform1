@@ -1,0 +1,3 @@
+git remote add origin https://github.com/asandamathomoyi1/Development-Software-2A.git
+git branch -M main
+git push -u origin main

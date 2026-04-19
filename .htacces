@@ -1,0 +1,11 @@
+# Enable JSON file handling
+AddType application/json .json
+
+# Prevent directory listing
+Options -Indexes
+
+# Protect users.json from direct access
+<Files "users.json">
+    Order Allow,Deny
+    Deny from all
+</Files>
